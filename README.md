@@ -1,9 +1,9 @@
 # Artificial-Intelligence-and-Machine-Learning-Laboratory-18CSL67
 Artificial Intelligence and Machine Learning Laboratory (18CSL67) 6th Semester CSE
 
-#Installation Instructions
+#Installation Instructions<br/>
 
-Step 1: Install recent version of any Linux distribution (Ubuntu 20 or 18, MX Linux 19, Fedora, Linux Mint or any other)
+Step 1: Install recent version of any Linux distribution (Ubuntu 20 or 18, MX Linux 19, Fedora, Linux Mint or any other)<br/>
 Step 2: Install Julia using the command
         sudo apt install julia
 Step 3: Install Pip
